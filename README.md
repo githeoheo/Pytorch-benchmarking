@@ -6,6 +6,8 @@
 - optimizer = SGD
 - learning rate = 0.001
 
+- 그래프상 최적의 epoch : 25
+
 ## 결과
 ### 학습결과(수치)
 cuda:0  

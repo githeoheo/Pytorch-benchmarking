@@ -119,7 +119,7 @@ Test F1 score: 0.9432
 # MobileNet V3
 
 ## 하이퍼 파라미터
-- batch_size = 16
+- batch_size = 64
 - epoch = 40
 - optimizer = SGD
 - learning rate = 0.001

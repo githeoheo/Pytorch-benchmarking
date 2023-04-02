@@ -120,7 +120,7 @@ Test F1 score: 0.9432
 
 ## 하이퍼 파라미터
 - batch_size = 64
-- epoch = 40
+- epoch = 30
 - optimizer = SGD
 - learning rate = 0.001
 

@@ -159,14 +159,14 @@ Validation : [13,    79] loss: 0.214 accuracy: 0.967
 Training : [14,   625] loss: 0.066 accuracy: 0.978  
 Validation : [14,    79] loss: 0.217 accuracy: 0.969  
 Training : [15,   625] loss: 0.059 accuracy: 0.980  
-Validation : [15,    79] loss: 0.222 accuracy: 0.971 
+Validation : [15,    79] loss: 0.222 accuracy: 0.971  
 Training : [16,   625] loss: 0.052 accuracy: 0.983   
 Validation : [16,    79] loss: 0.230 accuracy: 0.973  
 Training : [17,   625] loss: 0.046 accuracy: 0.984   
 Validation : [17,    79] loss: 0.225 accuracy: 0.974   
 Training : [18,   625] loss: 0.042 accuracy: 0.987  
 Validation : [18,    79] loss: 0.231 accuracy: 0.976  
-Training : [19,   625] loss: 0.037 accuracy: 0.989 
+Training : [19,   625] loss: 0.037 accuracy: 0.989  
 Validation : [19,    79] loss: 0.229 accuracy: 0.978  
 Training : [20,   625] loss: 0.034 accuracy: 0.990   
 Validation : [20,    79] loss: 0.229 accuracy: 0.979  
